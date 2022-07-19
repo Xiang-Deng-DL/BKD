@@ -1,4 +1,2 @@
 # PEBKD
-"Personalized Education: Blind Knowledge Distillation" Coming very soon.
-
-
+"Personalized Education: Blind Knowledge Distillation" More will be coming very soon.
